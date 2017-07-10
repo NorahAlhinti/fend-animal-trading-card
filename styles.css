@@ -19,17 +19,17 @@ body{
 }
 
 ul {
-  list-style-type: none;
-  margin-left: -40px;
+	list-style-type: none;
+	margin-left: -40px;
 }
 
 .card-border{
 	padding: 10px;
 	border: 1px solid #605738;
 	border-radius: 8px;
-    background-color: rgba(24, 21, 3, 0.86);;
-    box-shadow: 10px 10px 5px #D9D4CF;
-    width: 300px;
+	background-color: rgba(24, 21, 3, 0.86);;
+	box-shadow: 10px 10px 5px #D9D4CF;
+	width: 300px;
 
 }
 
